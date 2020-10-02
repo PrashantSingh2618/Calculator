@@ -93,6 +93,8 @@ body {
 }
 
 .container {
+  padding-top: 10%;
+  padding-right: 15%;
   width: 50%;
   margin: auto;
 }
