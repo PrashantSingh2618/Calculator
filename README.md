@@ -1,11 +1,13 @@
 # calculator
 
 ## Project setup
+Install all dependencies using command
 ```
 npm install
 ```
 
-### Run the project using
+### Run the project using'
+Run the project using 
 ```
 npm run serve
 ```
