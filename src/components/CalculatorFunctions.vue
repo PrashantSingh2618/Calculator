@@ -34,7 +34,7 @@
       <div class="button" @click="operation('.')">.</div>
       <div class="button" @click="operation('0')">0</div>
       <div class="button">#</div>
-          <div class="button l" @click="equal" @keyup.enter="operation('7')">=</div>
+          <div class="button l" @click="equal" >=</div>
       </div>
     </div>
   </div>
